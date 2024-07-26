@@ -1,4 +1,4 @@
-module help
+module github.com/bruxaodev/help-go-api
 
 go 1.22.5
 

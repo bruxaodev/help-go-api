@@ -1,7 +1,7 @@
 package router
 
 import (
-	"help/handler"
+	"github.com/bruxaodev/help-go-api/handler"
 
 	"github.com/gin-gonic/gin"
 )
